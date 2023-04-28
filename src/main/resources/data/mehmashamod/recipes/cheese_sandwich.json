@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iii",
+    " o "
+  ],
+  "key": {
+    "i": {
+      "item": "mehmashamod:cheese"
+    },
+    "o": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "mehmashamod:cheese_sandwich",
+    "count": 6
+  }
+}
